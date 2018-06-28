@@ -6,13 +6,6 @@
    "source": [
     "### 1. kmeans++ is used to calc IOU "
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
   }
  ],
  "metadata": {
